@@ -1,0 +1,11 @@
+{
+  "name": "tensorflow-ml",
+  "version": "1.0.0",
+  "description": "Learning project for tensorflow (https://www.tensorflow.org)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Benson",
+  "license": "ISC"
+}
